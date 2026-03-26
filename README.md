@@ -18,17 +18,23 @@ Next runs → compares and flags anything new
 
 
 ## 🔍 Example Output
+
 IP              MAC Address         Vendor         Risk  Reason
+
 ----------------------------------------------------------------
+
 192.168.x.x     xx:xx:xx            Samsung        LOW   Known device
+
 192.168.x.x     xx:xx:xx            Unknown        HIGH  New device
 
+
 ## 🛠️ Run it
+
 pip install scapy requests
+
 python scanner.py
 
 
----
 
 ## 📁 Files
 
