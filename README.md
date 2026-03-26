@@ -50,4 +50,4 @@ Instead of just scanning, this tool:
 Works on local network only.  
 Used for learning and basic monitoring.
 
-# network-device-scanner
+
